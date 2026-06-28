@@ -22,7 +22,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/sreya-satheesh/nexalearn.git
+    git clone https://github.com/sreya-satheesh/nexa-learn.git
     cd nexalearn
     ```
 
